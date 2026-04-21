@@ -1,0 +1,6 @@
+name = "snackroute-site"
+compatibility_date = "2026-04-01"
+
+[assets]
+directory = "./public"
+not_found_handling = "404-page"
